@@ -1,8 +1,3 @@
-//Damarcus McGill
-//MSC 501 x70
-//Week 1 Assignment: Question 3 (Program 2)
-//10/20/20
-
 import java.util.Scanner; //Scanner statement for input
 import java.lang.Math; // Math statement for smallest and largest values
 
